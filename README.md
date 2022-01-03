@@ -1,3 +1,3 @@
-# LOL - Look Over the Layers
+# LOL - Let's Over the Layers
 
 "Pseudo Attention" architecture.
