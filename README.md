@@ -1,3 +1,3 @@
 # Let's Over the Layers - LOL
 
-Weight optimizing network of the entire layer using "Pseudo Attention" architecture.
+Neural Weighting optimization using "Pseudo Attention" architecture over whole network.
