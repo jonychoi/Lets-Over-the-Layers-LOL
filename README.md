@@ -1,3 +1,3 @@
-# LOL - Let's Over the Layers
+# Let's Over the Layers - LOL
 
-"Pseudo Attention" architecture.
+Weight optimizing network of the entire layer using "Pseudo Attention" architecture.
